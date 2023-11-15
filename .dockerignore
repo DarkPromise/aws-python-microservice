@@ -3,3 +3,7 @@
 
 # Environment Files
 *.env
+
+# Setup Files
+setup_batch.py
+setup_ecs.py
